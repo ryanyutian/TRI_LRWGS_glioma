@@ -1,7 +1,7 @@
 # Linked-Read Whole-Genome Sequencing Characterizes Structural Variation in Gliomas
 
  
-This repository contains custom code used for analysis and plotting in Tian et al. (In Press)
+This repository contains custom code used for analysis and plotting in Tian et al. (Manuscript in preparation)
 
 
 #
